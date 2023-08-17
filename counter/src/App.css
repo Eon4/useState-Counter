@@ -7,8 +7,15 @@
 
 button{
   color: rgb(76, 160, 238);
+  display: block;
 }
 
 button:hover{
     color: green;
+}
+
+h4, p{
+  color: rgb(255, 255, 255);
+  display: inline-flex;
+  text-indent: 10px;
 }
